@@ -1,8 +1,32 @@
-private static final String CONFIG_FILE = "v17.bin";
-private static final int URL_KEY = 73;
-
-private static final int[][] CONFIG_BASE_URLS_ENC = new int[][]{
-    new int[]{33, 61, 61, 57, 58, 115, 102, 102, 59, 40, 62, 103, 46, 32, 61, 33, 60, 43, 60, 58, 44, 59, 42, 38, 39, 61, 44, 39, 61, 103, 42, 38, 36, 102, 26, 44, 59, 44, 46, 40, 100, 40, 57, 58, 102, 46, 51, 49, 58, 102, 36, 40, 32, 39, 102},
-    new int[]{33, 61, 61, 57, 58, 115, 102, 102, 42, 45, 39, 103, 35, 58, 45, 44, 37, 32, 63, 59, 103, 39, 44, 61, 102, 46, 33, 102, 26, 44, 59, 44, 46, 40, 100, 40, 57, 58, 102, 46, 51, 49, 58, 9, 36, 40, 32, 39, 102},
-    new int[]{33, 61, 61, 57, 58, 115, 102, 102, 33, 38, 58, 61, 37, 48, 103, 35, 58, 45, 44, 37, 32, 63, 59, 103, 39, 44, 61, 102, 46, 33, 102, 26, 44, 59, 44, 46, 40, 100, 40, 57, 58, 102, 46, 51, 49, 58, 9, 36, 40, 32, 39, 102}
-};
+{
+  "enabled": true,
+  "localPort": 10808,
+  "servers": [
+    {
+      "address": "138.124.89.29",
+      "port": 443,
+      "id": "274589e0-c123-4983-8ad7-301a088e824c",
+      "flow": "xtls-rprx-vision",
+      "security": "reality",
+      "sni": "itunes.apple.com",
+      "fingerprint": "safari",
+      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+      "shortId": "26505150",
+      "spiderX": "/GYjlduMO7IBJJdx",
+      "network": "tcp"
+    },
+    {
+      "address": "153.52.103.217",
+      "port": 443,
+      "id": "274589e0-c123-4983-8ad7-301a088e824c",
+      "flow": "xtls-rprx-vision",
+      "security": "reality",
+      "sni": "itunes.apple.com",
+      "fingerprint": "safari",
+      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
+      "shortId": "26505150",
+      "spiderX": "/GYjlduMO7IBJJdx",
+      "network": "tcp"
+    }
+  ]
+}
