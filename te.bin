@@ -10,10 +10,13 @@
       "security": "reality",
       "sni": "itunes.apple.com",
       "fingerprint": "safari",
-      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "c9bcd4b68647",
-      "spiderX": "/652c52489414f15",
-      "network": "tcp"
+      "publicKey": "0xODVjYNulRPg0-ylAa1AMeNBpR8rfK1tDQ4afVWVzQ",
+      "shortId": "aebd44dc8c5fb6e0",
+      "spiderX": "/IrWJxeON9OqWV7K",
+      "network": "xhttp",
+      "mode": "auto",
+      "path": "/",
+      "host": "itunes.apple.com"
     },
     {
       "address": "138.124.89.29",
@@ -23,10 +26,13 @@
       "security": "reality",
       "sni": "itunes.apple.com",
       "fingerprint": "safari",
-      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "c9bcd4b68647",
-      "spiderX": "/652c52489414f15",
-      "network": "tcp"
+      "publicKey": "0xODVjYNulRPg0-ylAa1AMeNBpR8rfK1tDQ4afVWVzQ",
+      "shortId": "aebd44dc8c5fb6e0",
+      "spiderX": "/IrWJxeON9OqWV7K",
+      "network": "xhttp",
+      "mode": "auto",
+      "path": "/",
+      "host": "itunes.apple.com"
     }
   ]
 }
