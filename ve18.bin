@@ -1,7 +1,5 @@
-
-
 {
-  "enabled": true,
+  "enabled": false,
   "localPort": 10808,
   "servers": [
     {
