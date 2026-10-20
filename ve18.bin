@@ -1,40 +1,40 @@
 {
-  "enabled": false,
+  "enabled": true,
   "localPort": 10808,
   "servers": [
     {
-      "remark": "Paris-AMD-XHTTP-8443-Final",
+      "remark": "Paris-Ryzen-Google",
       "address": "138.124.89.29",
-      "port": 8443,
-      "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
+      "port": 443,
+      "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "",
       "security": "reality",
-      "sni": "itunes.apple.com",
-      "fingerprint": "safari",
-      "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
+      "sni": "www.google.com",
+      "fingerprint": "chrome",
+      "publicKey": "v-B8KZUj_vkkh7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
       "shortId": "13ab113427ba1f",
-      "spiderX": "/b6fb419b1d278e7",
+      "spiderX": "/lrWJxeON9OqWV7K",
       "network": "xhttp",
       "mode": "auto",
       "path": "/download",
-      "host": "itunes.apple.com"
+      "host": "www.google.com"
     },
     {
-      "remark": "Paris-AMD-XHTTP-8443-Final-Dub",
+      "remark": "Paris-Ryzen-Google-2",
       "address": "95.163.152.102",
-      "port": 8443,
-      "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
+      "port": 443,
+      "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "",
       "security": "reality",
-      "sni": "itunes.apple.com",
-      "fingerprint": "safari",
-      "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
+      "sni": "www.google.com",
+      "fingerprint": "chrome",
+      "publicKey": "v-B8KZUj_vkkh7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
       "shortId": "13ab113427ba1f",
-      "spiderX": "/b6fb419b1d278e7",
+      "spiderX": "/lrWJxeON9OqWV7K",
       "network": "xhttp",
       "mode": "auto",
       "path": "/download",
-      "host": "itunes.apple.com"
+      "host": "www.google.com"
     }
   ]
 }
