@@ -5,7 +5,7 @@
     {
       "remark": "Paris-AMD-XHTTP-8443-Final",
       "address": "78.17.115.162",
-      "port": 443,
+      "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
       "security": "reality",
@@ -22,7 +22,7 @@
     {
       "remark": "Paris-AMD-XHTTP-8443-Final-Dub",
       "address": "78.17.115.162",
-      "port": 443,
+      "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
       "security": "reality",
