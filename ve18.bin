@@ -4,7 +4,7 @@
   "servers": [
     {
       "remark": "Telegram-Apple-France",
-      "address": "163.5.153.225",
+      "address": "138.124.89.29",
       "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
