@@ -3,38 +3,38 @@
   "localPort": 10808,
   "servers": [
     {
-      "remark": "Telegram-Client-1",
+      "remark": "G-France",
       "address": "138.124.89.29",
       "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
       "security": "reality",
-      "sni": "itunes.apple.com",
-      "fingerprint": "safari",
+      "sni": "www.google.com",
+      "fingerprint": "chrome",
       "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
       "shortId": "13ab113427ba1f",
       "spiderX": "/b6fb419b1d278e7",
       "network": "xhttp",
       "mode": "auto",
       "path": "/download",
-      "host": "itunes.apple.com"
+      "host": "www.google.com"
     },
     {
-      "remark": "Telegram-Client-2",
+      "remark": "G-Amster",
       "address": "95.163.152.102",
       "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
       "security": "reality",
-      "sni": "itunes.apple.com",
-      "fingerprint": "safari",
+      "sni": "www.google.com",
+      "fingerprint": "chrome",
       "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
       "shortId": "13ab113427ba1f",
       "spiderX": "/b6fb419b1d278e7",
       "network": "xhttp",
       "mode": "auto",
       "path": "/download",
-      "host": "itunes.apple.com"
+      "host": "www.google.com"
     }
   ]
 }
