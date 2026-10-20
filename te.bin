@@ -3,6 +3,7 @@
   "localPort": 10808,
   "servers": [
     {
+      "remark": "Paris-AMD-XHTTP-8443-Final",
       "address": "138.124.89.29",
       "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
@@ -10,15 +11,16 @@
       "security": "reality",
       "sni": "itunes.apple.com",
       "fingerprint": "safari",
-      "publicKey": "0xODVjYNulRPg0-ylAa1AMeNBpR8rfK1tDQ4afVWVzQ",
-      "shortId": "aebd44dc8c5fb6e0",
-      "spiderX": "/IrWJxeON9OqWV7K",
+      "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
+      "shortId": "13ab113427ba1f",
+      "spiderX": "/b6fb419b1d278e7",
       "network": "xhttp",
       "mode": "auto",
-      "path": "/",
+      "path": "/download",
       "host": "itunes.apple.com"
     },
     {
+      "remark": "Paris-AMD-XHTTP-8443-Final-Dub",
       "address": "138.124.89.29",
       "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
@@ -26,12 +28,12 @@
       "security": "reality",
       "sni": "itunes.apple.com",
       "fingerprint": "safari",
-      "publicKey": "0xODVjYNulRPg0-ylAa1AMeNBpR8rfK1tDQ4afVWVzQ",
-      "shortId": "aebd44dc8c5fb6e0",
-      "spiderX": "/IrWJxeON9OqWV7K",
+      "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
+      "shortId": "13ab113427ba1f",
+      "spiderX": "/b6fb419b1d278e7",
       "network": "xhttp",
       "mode": "auto",
-      "path": "/",
+      "path": "/download",
       "host": "itunes.apple.com"
     }
   ]
