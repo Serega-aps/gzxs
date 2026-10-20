@@ -4,7 +4,7 @@
   "servers": [
     {
       "remark": "Paris-AMD-XHTTP-8443-Final",
-      "address": "78.17.115.162",
+      "address": "138.124.89.29",
       "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
@@ -21,7 +21,7 @@
     },
     {
       "remark": "Paris-AMD-XHTTP-8443-Final-Dub",
-      "address": "78.17.115.162",
+      "address": "95.163.152.102",
       "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
