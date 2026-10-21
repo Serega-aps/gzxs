@@ -34,7 +34,7 @@
       "network": "xhttp",
       "mode": "auto",
       "path": "/download",
-      "host": "vk.me""
+      "host": "vk.me"
     }
   ]
 }
