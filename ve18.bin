@@ -3,7 +3,24 @@
   "localPort": 10808,
   "servers": [
     {
-      "remark": "1",
+      "remark": "1-VK",
+      "address": "95.163.152.102",
+      "port": 443,
+      "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
+      "flow": "",
+      "security": "reality",
+      "sni": "eh.vk.ru",
+      "fingerprint": "firefox",
+      "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
+      "shortId": "13ab113427ba1f",
+      "spiderX": "/b6fb419b1d278e7",
+      "network": "xhttp",
+      "mode": "auto",
+      "path": "/download",
+      "host": "eh.vk.ru"
+    },
+    {
+      "remark": "2-Apple",
       "address": "78.17.115.162",
       "port": 443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
@@ -20,7 +37,7 @@
       "host": "itunes.apple.com"
     },
     {
-      "remark": "2",
+      "remark": "3-Apple",
       "address": "138.124.89.29",
       "port": 443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
