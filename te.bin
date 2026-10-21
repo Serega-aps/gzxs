@@ -5,7 +5,7 @@
     {
       "remark": "1",
       "address": "77.110.121.98",
-      "port": 443,
+      "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
       "security": "reality",
@@ -22,7 +22,7 @@
     {
       "remark": "2",
       "address": "77.110.121.98",
-      "port": 443,
+      "port": 8443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
       "security": "reality",
