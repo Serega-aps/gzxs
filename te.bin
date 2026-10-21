@@ -5,7 +5,7 @@
     {
       "remark": "1",
       "address": "77.110.121.98",
-      "port": 8443,
+      "port": 2053,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
       "security": "reality",
@@ -19,7 +19,7 @@
     {
       "remark": "2",
       "address": "77.110.121.98",
-      "port": 8443,
+      "port": 2053,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
       "flow": "xtls-rprx-vision",
       "security": "reality",
