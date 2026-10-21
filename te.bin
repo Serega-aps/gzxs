@@ -13,8 +13,8 @@
       "fingerprint": "firefox",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
       "shortId": "221b3e411478dd",
-      "spiderX": "/8b098acb822d601",
-      "network": "tcp"
+      "network": "tcp",
+      "mode": "auto"
     },
     {
       "remark": "Paris-VK-2",
@@ -27,8 +27,8 @@
       "fingerprint": "firefox",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
       "shortId": "221b3e411478dd",
-      "spiderX": "/8b098acb822d601",
-      "network": "tcp"
+      "network": "tcp",
+      "mode": "auto"
     },
     {
       "remark": "Paris-VK-3",
@@ -41,8 +41,8 @@
       "fingerprint": "firefox",
       "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
       "shortId": "221b3e411478dd",
-      "spiderX": "/8b098acb822d601",
-      "network": "tcp"
+      "network": "tcp",
+      "mode": "auto"
     }
   ]
 }
