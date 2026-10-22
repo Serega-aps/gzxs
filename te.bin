@@ -15,9 +15,7 @@
       "shortId": "67298a2a",
       "spiderX": "/b6fb419b1d278e7",
       "network": "xhttp",
-      "xhttpPath": "/download",
-      "xhttpMode": "auto",
-      "xPaddingBytes": "100-1000"
+      "xhttpPath": "/download"
     },
     {
       "remark": "France (TCP Vision)",
