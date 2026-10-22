@@ -3,7 +3,7 @@
   "localPort": 10808,
   "servers": [
     {
-      "remark": "(TCP Vision)",
+      "remark": "1",
       "address": "138.124.89.29",
       "port": 443,
       "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
@@ -17,19 +17,21 @@
       "network": "tcp"
     },
     {
-      "remark": "(TCP Vision)",
-      "address": "138.124.89.29",
+      "remark": "2",
+      "address": "95.163.152.102",
       "port": 443,
-      "id": "258c4dcb-5b9e-4e4e-bdc6-fe664eaf4e9a",
-      "flow": "xtls-rprx-vision",
+      "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
+      "flow": "",
       "security": "reality",
       "sni": "eh.vk.ru",
       "fingerprint": "firefox",
-      "publicKey": "tdvBkXvjqkA_Sq5oxAB7EZDRz1qVtQqJm2DoUlSP9XQ",
-      "shortId": "221b3e411478dd",
-      "spiderX": "/8b098acb822d601",
-      "network": "tcp"
+      "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
+      "shortId": "13ab113427ba1f",
+      "spiderX": "/b6fb419b1d278e7",
+      "network": "xhttp",
+      "mode": "auto",
+      "path": "/download",
+      "host": "eh.vk.ru"
     }
   ]
 }
-
