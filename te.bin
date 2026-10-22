@@ -4,37 +4,37 @@
   "servers": [
     {
       "remark": "1",
-      "address": "163.245.41.74",
+      "address": "95.163.152.102",
       "port": 443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
       "security": "reality",
-      "sni": "itunes.apple.com",
-      "fingerprint": "safari",
+      "sni": "eh.vk.ru",
+      "fingerprint": "firefox",
       "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
       "shortId": "13ab113427ba1f",
       "spiderX": "/b6fb419b1d278e7",
       "network": "xhttp",
       "mode": "auto",
       "path": "/download",
-      "host": "itunes.apple.com"
+      "host": "eh.vk.ru"
     },
     {
       "remark": "2",
-      "address": "163.245.41.74",
+      "address": "95.163.152.102",
       "port": 443,
       "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
       "flow": "",
       "security": "reality",
-      "sni": "itunes.apple.com",
-      "fingerprint": "safari",
+      "sni": "eh.vk.ru",
+      "fingerprint": "firefox",
       "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
       "shortId": "13ab113427ba1f",
       "spiderX": "/b6fb419b1d278e7",
       "network": "xhttp",
       "mode": "auto",
       "path": "/download",
-      "host": "itunes.apple.com"
+      "host": "eh.vk.ru"
     }
   ]
 }
