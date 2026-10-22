@@ -17,7 +17,6 @@
       "network": "xhttp",
       "mode": "auto",
       "path": "/download",
-      "host": "itunes.apple.com"
     },
     {
       "remark": "(XHTTP)",
@@ -33,7 +32,6 @@
       "spiderX": "/b6fb419b1d278e7",
       "network": "xhttp",
       "mode": "auto",
-      "path": "/download",
-      "host": "itunes.apple.com"
+      "path": "/download", 
   ]
 }
