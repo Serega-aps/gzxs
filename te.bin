@@ -3,32 +3,38 @@
   "localPort": 10808,
   "servers": [
     {
-      "remark": "1",
+      "remark": "Paris-XHTTP-VK-1",
       "address": "95.163.152.102",
-      "port": 8443,
-      "id": "80ced9b1-7d51-4685-910c-49c00f33924b",
-      "flow": "xtls-rprx-vision",
+      "port": 443,
+      "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
+      "flow": "",
       "security": "reality",
       "sni": "eh.vk.ru",
       "fingerprint": "firefox",
-      "publicKey": "B0PgdiVJ1ZqaN-hgeEYrkuISU4XWOdd7H9mfUpzmej0",
-      "shortId": "c5ac",
-      "spiderX": "/3c2d7f697ced203",
-      "network": "tcp"
+      "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
+      "shortId": "13ab113427ba1f",
+      "spiderX": "/b6fb419b1d278e7",
+      "network": "xhttp",
+      "mode": "auto",
+      "path": "/download",
+      "host": "eh.vk.ru"
     },
     {
-      "remark": "2",
+      "remark": "Paris-XHTTP-VK-2",
       "address": "95.163.152.102",
-      "port": 8443,
-      "id": "80ced9b1-7d51-4685-910c-49c00f33924b",
-      "flow": "xtls-rprx-vision",
+      "port": 443,
+      "id": "50a547cd-fec8-4904-82e7-44f6615e7f46",
+      "flow": "",
       "security": "reality",
       "sni": "eh.vk.ru",
       "fingerprint": "firefox",
-      "publicKey": "B0PgdiVJ1ZqaN-hgeEYrkuISU4XWOdd7H9mfUpzmej0",
-      "shortId": "c5ac",
-      "spiderX": "/3c2d7f697ced203",
-      "network": "tcp"
+      "publicKey": "v-B8KZUj_vkkH7PJGmSMKyHT_iHdsMOQzTwj11PAZlM",
+      "shortId": "13ab113427ba1f",
+      "spiderX": "/b6fb419b1d278e7",
+      "network": "xhttp",
+      "mode": "auto",
+      "path": "/download",
+      "host": "eh.vk.ru"
     }
   ]
 }
