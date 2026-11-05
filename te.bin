@@ -4,7 +4,7 @@
   "servers": [
     {
       "remark": "-3xw01ihwm6-1",
-      "address": "79.137.184.156",
+      "address": "45.155.71.141"",
       "port": 8443,
       "id": "ac29132a-2135-422b-8229-008d4d9e57f8",
       "flow": "xtls-rprx-vision",
