@@ -14,7 +14,7 @@
       "shortId": "26505150",
       "spiderX": "/8b098acb822d601",
       "network": "xhttp",
-      "mode": "stream-up",
+      "mode": "stream-one",
       "path": "/download",
       "host": "eh.vk.ru"
     },
@@ -30,7 +30,7 @@
       "shortId": "26505150",
       "spiderX": "/8b098acb822d601",
       "network": "xhttp",
-      "mode": "stream-up",
+      "mode": "stream-one",
       "path": "/download",
       "host": "eh.vk.ru"
     }
